@@ -1,0 +1,5 @@
+./build
+*.exe
+*.dsym
+main
+db.txt

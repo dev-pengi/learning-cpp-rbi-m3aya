@@ -1,0 +1,5 @@
+{
+  "directory": "C:/Users/Sif/Desktop/snakegame",
+  "command": "clang++ -IC:/raylib/raylib/src -LC:/raylib/raylib -lraylib -o output.exe main.cpp",
+  "file": "main.cpp"
+}
