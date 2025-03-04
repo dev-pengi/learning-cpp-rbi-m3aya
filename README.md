@@ -1,1 +1,1 @@
-just collection of projects to learn c plus plus, i chose the hard way (fuck tutorials i'll just keep coding and trying hta nwli ncontroliha mlih)
+just collection of projects to learn `c++`, i chose the hard way (fuck tutorials i'll just keep coding and trying hta nwli ncontroliha mlih)
